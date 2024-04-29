@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Kubernetes
 - 📫 How to reach me www.linkedin.com/in/nikhil-kumar-4bbb7a216
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I Love Travelling
 
 <!---
 Nick12000000/Nick12000000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
